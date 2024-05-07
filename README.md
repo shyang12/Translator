@@ -18,12 +18,20 @@
 
 ## 2. Project Architecture   
 ```bash
-
+├── main
+│   ├── MainActivity.kt
+├── ui
+│   ├── layout
+│   │   └── activity_main.xml
 ```
 
 ## 3. Firebase   
-### 3.1 firebase-ml-natural-language
+### 3.1  firebase-ml-natural-language
 
-### 3.2 firebase-ml-natural-language-translate-model
+### 3.2  firebase-ml-natural-language-translate-model
 
 ## 4. Result   
+- 번역 완료
+
+![번역기](https://github.com/shyang12/Translator/assets/85710913/253f3c49-00c9-453d-8216-cd7511faf36f)
+  
